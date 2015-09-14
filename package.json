@@ -1,0 +1,14 @@
+{
+  "name": "rsa",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^0.2.25"
+  }
+}
